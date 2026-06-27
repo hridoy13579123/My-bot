@@ -2,7 +2,7 @@ from datetime import datetime
 from operator import itemgetter
 from secrets import *
 from settings import *
-from data.settings import DRY_RUN
+from settings import DRY_RUN
 
 import time
 import ccxt
