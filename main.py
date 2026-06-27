@@ -1,6 +1,7 @@
 from datetime import datetime
 from operator import itemgetter
-from data import secrets , settings
+from secrets import *
+from settings import *
 from data.settings import DRY_RUN
 
 import time
